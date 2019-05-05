@@ -104,8 +104,7 @@ Datadog，PagerDutyによるモダンな監視……ZOZOTOWNリプレースチ�
 【第59回】……はまちや2，竹原
 
 ## Special Report
-- Scala関西Summit 2018
-……粕谷 大輔
+- Scala関西Summit 2018……粕谷 大輔
 
 ## 特別広報
 - KADOKAWAだからこそできる新しいコンテンツ配信を  
