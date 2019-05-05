@@ -7,4 +7,4 @@
 
 ## WEB+DB Press
 
-### Vol.110
+### [Vol.110](/wdpress110)
