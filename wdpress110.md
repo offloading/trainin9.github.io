@@ -1,3 +1,12 @@
+# URL
+https://gihyo.jp/magazine/wdpress/archive/2019/vol110
+
+# Description
+2019年4月25日発売
+B5判／168ページ
+定価（本体1,480円＋税）
+ISBN 978-4-297-10533-4
+
 # 特集1
 名前付け大全
 設計も，実装も，ここから始まる！
