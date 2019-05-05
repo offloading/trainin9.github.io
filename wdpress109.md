@@ -100,4 +100,4 @@ Kotlin DSL，null安全を導入した万能フレームワーク……大塚 �
 
 ## 特別広報
 - MixChannelを支える技術
-- 【最終回】Android端末におけるライブ配信サービスの実現……Takase Ryohei，Ari Prasetyo
+【最終回】Android端末におけるライブ配信サービスの実現……Takase Ryohei，Ari Prasetyo
